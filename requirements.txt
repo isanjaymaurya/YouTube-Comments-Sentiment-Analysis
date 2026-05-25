@@ -1,0 +1,26 @@
+# Core Dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP & Sentiment Analysis
+nltk>=3.8.0
+langdetect>=1.0.9
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.8.0
+wordcloud>=1.9.0
+pillow>=10.0.0
+
+# YouTube Data Fetching
+youtube-comment-downloader>=0.2.0
+yt-dlp>=2023.12.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Development
+pytest>=7.4.0
+black>=23.12.0
+flake8>=6.1.0
